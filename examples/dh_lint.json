@@ -1,0 +1,10 @@
+{
+  "entries": {
+    "manifest": "some/path/root.yaml",
+    "meta": "some/meta_path/root.yaml",
+    "doc": "some/doc_path/root.yaml"
+  },
+  "rules": {
+    "dochub": 2
+  }
+}
